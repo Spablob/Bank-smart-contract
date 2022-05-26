@@ -1,1 +1,1 @@
-# Bank-smart-contract
+Bank-smart-contract deployed on Rinkeby Testnet
